@@ -66,40 +66,6 @@
     </a>
   </div>
   
-  ---
-  
-  <div align="center">
-    
-  ### 🎯 *Fun Facts*
-  
-  <table>
-  <tr>
-  <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tastychez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
-  </td>
-  <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tastychez&layout=compact&theme=tokyonight&hide_border=true&custom_title=Top%20Languages" />
-  </td>
-  </tr>
-  </table>
-  
-  ---
-  
-  ### 🚀 *What I'm Working On*
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tastychez&theme=tokyonight&hide_border=true&custom_title=Weekly%20Development%20Breakdown" />
-  </div>
-  
-  ---
-  
-  ### 🎨 *Random Dev Quote*
-  
-  <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  </div>
-  
-  </div>
   
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
