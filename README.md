@@ -6,7 +6,7 @@
   
   ### 🚀 *Electrical & Computer Engineering Student* 🚀
   
-  **Currently:** Software Engineering Intern @ Amazon | Research Assistant @ Olin PINT
+  **Currently:** Incoming Software Engineering Intern @ Amazon
   
   ---
   
@@ -22,12 +22,38 @@
   <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+    <img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
     <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
     <img src="https://img.shields.io/badge/SolidWorks-0078D4?style=for-the-badge&logo=solidworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cybersecurity-FF5722?style=for-the-badge&logo=security&logoColor=white" />
+  </div>
+  
+  ---
+  
+  ### 🎨 *Interests*
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Digital%20Editing-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hiking-4CAF50?style=for-the-badge&logo=hiking&logoColor=white" />
+    <img src="https://img.shields.io/badge/Photography-FF9800?style=for-the-badge&logo=camera&logoColor=white" />
+  </div>
+  
+  ---
+  
+  ### 📸 *Feel free to add me on Instagram*
+  
+  <div align="center">
+    <a href="https://www.instagram.com/hoongg_/">
+      <img src="https://img.shields.io/badge/Personal-@hoongg_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/yiize.clicks/">
+      <img src="https://img.shields.io/badge/Photography-@yiize.clicks-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
   </div>
   
   ---
@@ -44,15 +70,34 @@
   
   <div align="center">
     
-  ### 🎮 *GitHub Activity*
+  ### 🎯 *Fun Facts*
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tastychez&theme=react-dark&hide_border=true&area=true" />
+  <table>
+  <tr>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tastychez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
+  </td>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tastychez&layout=compact&theme=tokyonight&hide_border=true&custom_title=Top%20Languages" />
+  </td>
+  </tr>
+  </table>
   
   ---
   
-  ### 📊 *Streak & Stats*
+  ### 🚀 *What I'm Working On*
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tastychez&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tastychez&theme=tokyonight&hide_border=true&custom_title=Weekly%20Development%20Breakdown" />
+  </div>
+  
+  ---
+  
+  ### 🎨 *Random Dev Quote*
+  
+  <div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  </div>
   
   </div>
   
