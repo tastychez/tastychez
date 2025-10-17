@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hong%20Yi%20Zhang&fontSize=60&fontAlignY=35&desc=Building%20the%20Future%20with%20AI%20%26%20Engineering&descAlignY=60&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hong%20Yi%20Zhang&fontSize=60&fontAlignY=35&desc=Building%20the%20Future%20with%20AI%20and%20Engineering&descAlignY=60&descAlign=center" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
   ---
   
   
-  ### 🔥 *Tech Stack*
+  ### *Tech Stack*
   
   <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,7 +32,7 @@
   
   ---
   
-  ### 🌟 *Want to know more?*
+  ### *Want to know more?* 🌟
   
   <div align="center">
     <a href="https://hongyizhang.vercel.app/">
@@ -43,8 +43,17 @@
   ---
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tastychez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tastychez&layout=compact&theme=tokyonight&hide_border=true" />
+    
+  ### 🎮 *GitHub Activity*
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tastychez&theme=react-dark&hide_border=true&area=true" />
+  
+  ---
+  
+  ### 📊 *Streak & Stats*
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tastychez&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" />
+  
   </div>
   
   <div align="center">
