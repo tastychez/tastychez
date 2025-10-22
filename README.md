@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Sailec+Std+Medium&size=30&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Hong+Yi+Zhang;Building+the+Future+with+AI;Electrical+%26+Computer+Engineering;Check+out+my+website+below+👇" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Hong+Yi+Zhang;Building+the+Future+with+AI;Electrical+%26+Computer+Engineering;Check+out+my+website+below+👇" alt="Typing SVG" />
 
 ---
 
