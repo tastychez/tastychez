@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning;Hardware+Engineering;Computer+Vision;Rocketry+%26+Avionics;Photography" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Hong+Yi+Zhang;Check+out+my+website+at+hongyizhang.vercel.app;Building+AI+Powered+Solutions;Electrical+%26+Computer+Engineering+Student" alt="Typing SVG" />
 
 ---
 
