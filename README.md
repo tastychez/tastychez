@@ -30,7 +30,7 @@
 
 ---
 
-### 🎨 *Interests*
+### *Interests*
 
 <img src="https://img.shields.io/badge/Anime-FF69B4?style=for-the-badge&logo=crunchyroll&logoColor=white" />
 <img src="https://img.shields.io/badge/Gym-FF6B35?style=for-the-badge&logo=fitness&logoColor=white" />
@@ -39,7 +39,7 @@
 
 ---
 
-### 📸 *Feel free to add me on Instagram*
+### *Feel free to add me on Instagram*
 
 <a href="https://www.instagram.com/hoongg_/">
   <img src="https://img.shields.io/badge/Personal-@hoongg_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -50,7 +50,7 @@
 
 ---
 
-### *Want to know more?* 🌟
+### *Want to know more?* 
 
 <a href="https://hongyizhang.vercel.app/">
   <img src="https://img.shields.io/badge/Visit_My_Website-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />
