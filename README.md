@@ -1,15 +1,5 @@
 <div align="center">
 
-# <span style="font-family: 'Courier New', monospace; font-size: 3em; letter-spacing: 0.1em; color: #8B5CF6;">HONG YI ZHANG</span>
-
-</div>
-
-<div align="center">
-
-### *Electrical & Computer Engineering Student*
-
-**Incoming Software Engineering Intern @ Amazon**
-
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=30&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Hong+Yi+Zhang;Software+Engineering+Intern+@+Amazon;Electrical+%26+Computer+Engineering;Check+out+my+website+below+" alt="Typing SVG" />
