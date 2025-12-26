@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hong%20Yi%20Zhang&fontSize=60&fontAlignY=35&desc=Building%20the%20Future%20with%20AI%20and%20Engineering&descAlignY=60&descAlign=center" />
+
+# <span style="font-family: 'Courier New', monospace; font-size: 3em; letter-spacing: 0.1em; color: #8B5CF6;">HONG YI ZHANG</span>
+
 </div>
 
 <div align="center">
