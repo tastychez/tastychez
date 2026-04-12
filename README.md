@@ -24,7 +24,6 @@
 
 ### *Interests*
 
-<img src="https://img.shields.io/badge/Anime-FF69B4?style=for-the-badge&logo=crunchyroll&logoColor=white" />
 <img src="https://img.shields.io/badge/Gym-FF6B35?style=for-the-badge&logo=fitness&logoColor=white" />
 <img src="https://img.shields.io/badge/Hiking-4CAF50?style=for-the-badge&logo=hiking&logoColor=white" />
 <img src="https://img.shields.io/badge/Photography-FF9800?style=for-the-badge&logo=camera&logoColor=white" />
