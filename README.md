@@ -6,8 +6,9 @@
 
 ---
 
-### *Tech Stack*
+### *Want to know more?* 
 
+<<<<<<< HEAD
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -27,6 +28,11 @@
 <img src="https://img.shields.io/badge/Gym-FF6B35?style=for-the-badge&logo=fitness&logoColor=white" />
 <img src="https://img.shields.io/badge/Hiking-4CAF50?style=for-the-badge&logo=hiking&logoColor=white" />
 <img src="https://img.shields.io/badge/Photography-FF9800?style=for-the-badge&logo=camera&logoColor=white" />
+=======
+<a href="https://hongyizhang.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit_My_Website-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+>>>>>>> a7d69c0 (update pfoile)
 
 ---
 
@@ -37,14 +43,6 @@
 </a>
 <a href="https://www.instagram.com/yiize.clicks/">
   <img src="https://img.shields.io/badge/Photography-@yiize.clicks-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
----
-
-### *Want to know more?* 
-
-<a href="https://hongyizhang.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit_My_Website-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />
 </a>
 
 </div>
