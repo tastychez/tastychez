@@ -1,5 +1,5 @@
 <svg width="310" height="52" viewBox="0 0 310 52" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(8 26.0)"><g fill="none" stroke="#06B6D4" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M18 0 H2 M9 -7 L2 0 L9 7"/><animateTransform attributeName="transform" type="translate" values="4 0; -4 0; 4 0" keyTimes="0;0.5;1" dur="0.7s" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" repeatCount="indefinite"/></g></g>
+  <g transform="translate(8 26.0)"><g fill="none" stroke="#06B6D4" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M2 0 H18 M11 -7 L18 0 L11 7"/><animateTransform attributeName="transform" type="translate" values="4 0; -4 0; 4 0" keyTimes="0;0.5;1" dur="0.7s" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" repeatCount="indefinite"/></g></g>
   
   <g fill="#06B6D4" transform="translate(42 35.9) scale(0.0146484375 -0.0146484375)">
     <path transform="translate(0 0)" d="M408 0 0 1071H311L545 403L778 1071H1090L682 0Z"/>
