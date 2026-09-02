@@ -7,7 +7,7 @@
 ---
 
 <a href="https://hongyizhang.vercel.app/">
-  <img src="assets/website-button.svg" alt="Visit My Website" />
+  <img src="assets/visit-website.svg" alt="Visit My Website" />
 </a>
 
 ---
@@ -15,7 +15,7 @@
 ### *Check out some of my photos!* 📸
 
 <a href="https://www.instagram.com/yiize.clicks/">
-  <img src="assets/photography-button.svg" alt="@yiize.clicks Photography" />
+  <img src="assets/yiize-clicks.svg" alt="@yiize.clicks Photography" />
 </a>
 
 </div>
