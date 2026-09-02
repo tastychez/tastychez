@@ -1,0 +1,21 @@
+<svg width="360" height="60" viewBox="0 0 360 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#DB2777;#2563EB;#7C3AED" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#DB2777">
+        <animate attributeName="stop-color" values="#DB2777;#2563EB;#7C3AED;#DB2777" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <clipPath id="clip"><rect x="2" y="2" width="356" height="56" rx="16"/></clipPath>
+  </defs>
+  <rect x="2" y="2" width="356" height="56" rx="16" fill="url(#g)"/>
+  <g clip-path="url(#clip)">
+    <rect x="-160" y="0" width="90" height="60" fill="#ffffff" opacity="0.28" transform="skewX(-22)">
+      <animate attributeName="x" values="-160;460" dur="3.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="2.5" y="2.5" width="355" height="55" rx="15.5" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="180" y="37" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5" fill="#ffffff">✦ VISIT MY WEBSITE ✦</text>
+</svg>
