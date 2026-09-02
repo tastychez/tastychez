@@ -7,7 +7,7 @@
 ---
 
 <a href="https://hongyizhang.vercel.app/">
-  <img src="assets/website.svg" alt="Visit My Website" />
+  <img src="assets/website-link.svg" alt="Visit My Website" />
 </a>
 
 ---
