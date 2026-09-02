@@ -6,25 +6,18 @@
 
 ---
 
-### *Want to know more?* 
+### *Want to know more?*
 
 <a href="https://hongyizhang.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit_My_Website-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20CHECK%20OUT%20MY%20WEBSITE%20%E2%9C%A6-0D0B14?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8B5CF6" alt="Visit My Website" height="42" />
 </a>
 
 ---
 
-### *Feel free to add me on Instagram*
+### *Check out some of my photos!* 📸
 
-<a href="https://www.instagram.com/hoongg_/">
-  <img src="https://img.shields.io/badge/Personal-@hoongg_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 <a href="https://www.instagram.com/yiize.clicks/">
   <img src="https://img.shields.io/badge/Photography-@yiize.clicks-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
